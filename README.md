@@ -2,6 +2,7 @@
 <html lang="en">
     <head> 
         <meta charset="UTF-8">
+        <title>Native Plants of Ohio</title>
     </head>
 <body>
     <main>
