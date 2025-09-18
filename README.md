@@ -38,10 +38,10 @@
             <h2>Examples of Native Plants</h2>
                 <img scr="[Butterflyonconeflower](https://github.com/user-attachments/assets/3199a370-e744-477d-b020-df3ee0ac0738)"
         alt="Purple Coneflower">
-                <img src="[Milkweed](https://github.com/user-attachments/assets/64bff87e-3400-429b-b4a6-64da6d7770ff)
-        alt="Common Milkweed">
                 <img src=![whiteOak](https://github.com/user-attachments/assets/54109a85-1780-41c8-b994-90956d148ef8)
                 alt="White Oak Tree">
+            <img src=![Milkweed](https://github.com/user-attachments/assets/64bff87e-3400-429b-b4a6-64da6d7770ff)
+        alt="Common Milkweed">
         </div>
      </main>
 </body>
