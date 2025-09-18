@@ -45,6 +45,6 @@
                 <img src="whiteOak.jpg"
                 alt="White Oak Tree">
         </div>
-
+     </main>
 </body>
 </html>
