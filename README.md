@@ -2,7 +2,6 @@
 <html lang="en">
     <head> 
         <meta charset="UTF-8">
-        <title>Native Plant Project!</title>
     </head>
 <body>
     <main>
